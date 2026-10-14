@@ -1,3 +1,5 @@
+![#opentowork](https://img.shields.io/badge/%23opentowork-%28unemployed_and_beautiful!%29-ff69b4?style=for-the-badge)
+
 # Hi, I'm Viktoriia 👋
 
 **Data generalist** – DWH analytics engineer, BI developer, analyst, ML enthusiast.
@@ -5,7 +7,6 @@ Based in Saint Petersburg, planning to relocate to Europe.
 
 🌐 **Portfolio:** https://lexozbedra.github.io
 
-![#opentowork](https://img.shields.io/badge/%23opentowork-%28unemployed_and_beautiful!%29-ff69b4?style=for-the-badge)
 
 ## What I do
 - Design and maintain data pipelines, data warehouse layers and data marts
