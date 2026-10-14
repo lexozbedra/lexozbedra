@@ -3,6 +3,7 @@
 # Hi, I'm Viktoriia 👋
 
 **Data generalist** – DWH analytics engineer, BI developer, analyst, ML enthusiast.
+
 Based in Saint Petersburg, planning to relocate to Europe.
 
 🌐 **Portfolio:** https://lexozbedra.github.io
