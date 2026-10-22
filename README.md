@@ -1,4 +1,4 @@
-![#opentowork](https://img.shields.io/badge/%23opentowork-unemployed_and_beautiful!-ff69b4?style=for-the-badge)
+![#opentowork](https://img.shields.io/badge/%23opentoworkff69b4?style=for-the-badge)
 
 # Hi, I'm Viktoriia 👋
 
